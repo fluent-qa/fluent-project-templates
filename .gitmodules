@@ -1,0 +1,3 @@
+[submodule "ansible-playbook-templates"]
+	path = ansible-playbook-templates
+	url = https://github.com/fluent-qa/ansible-playbook-templates.git

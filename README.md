@@ -1,2 +1,9 @@
 # fluent-project-templates
-Different Project Templates
+Different Project Templates:
+
+
+
+## Devops/Testops projects 
+
+- [ansible-playbook-template](ansible-playbook-templates/)
+
