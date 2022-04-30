@@ -1,3 +1,6 @@
 [submodule "ansible-playbook-templates"]
 	path = ansible-playbook-templates
 	url = https://github.com/fluent-qa/ansible-playbook-templates.git
+[submodule "fluent-pypro-template"]
+	path = fluent-pypro-template
+	url = https://github.com/qdriven/fluent-pypro-template.git
