@@ -7,3 +7,6 @@
 [submodule "fluentqa-md-docs-template"]
 	path = fluent-md-docs-template 
 	url = https://github.com/qdriven/fluentqa-md-docs-template.git
+[submodule "docs-templates"]
+	path = docs-templates
+	url = https://github.com/qdriven/docs-templates.git
