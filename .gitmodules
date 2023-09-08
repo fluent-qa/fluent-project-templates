@@ -4,3 +4,6 @@
 [submodule "fluent-pypro-template"]
 	path = fluent-pypro-template
 	url = https://github.com/qdriven/fluent-pypro-template.git
+[submodule "fluentqa-md-docs-template"]
+	path = fluent-md-docs-template 
+	url = https://github.com/qdriven/fluentqa-md-docs-template.git
