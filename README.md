@@ -9,6 +9,7 @@ Different Project Templates:
 - [python-templates](https://github.com/qdriven/fluent-pypro-template)
 - [nextra-docs-templates](https://github.com/qdriven/docs-templates)
 - [golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
+- [JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)
 
 ## Install Docs Template
 
