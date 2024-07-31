@@ -1,21 +1,27 @@
-# fluent-project-templates-starters
+# Fluent QA Project Templates
 
-Different Project Templates:
+Software QA may use different tools to complete dialy tasks, like test-ops,automation testing .......
 
-## Devops/Testops projects
+Here are some project templates to speed up project settings.
+- [Fluent QA Project Templates](#fluent-qa-project-templates)
+  - [Devops/TestOps Project Template](#devopstestops-project-template)
+  - [Dev/Automation Project Templates-Different Language](#devautomation-project-templates-different-language)
+  - [Docs Site Template](#docs-site-template)
 
-- [ansible-playbook-template](ansible-playbook-templates/)
-- [fluentqa-mdocs-template](https://github.com/qdriven/fluentqa-md-docs-template.git)
-- [python-templates](https://github.com/qdriven/fluent-pypro-template)
-- [nextra-docs-templates](https://github.com/qdriven/docs-templates)
-- [golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
-- [JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git) JAVA MAVEN Project template with springboot and erupt backend 
+## Devops/TestOps Project Template
 
-## Install Docs Template
+- [X][ansible-playbook-template](https://github.com/qdriven/ansible-playbook-templates.git)
+- [] K8S Setting
 
-```
-curl -o https://raw.githubusercontent.com/qdriven/docs-templates/main/install.sh
-sh install.sh
-```
+## Dev/Automation Project Templates-Different Language
 
+- [X][Python-template project](ttps://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
+- [X][JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)JAVA Maven/Gradle Project
+- [X][golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
+- [X][typescript-lib](https://github.com/fluent-qa/ts-lib-starter)Typescript lib template project
+- [X][typescript-mono-repo](https://github.com/qdriven/mono-ts-starter.git)typescript mono template project
 
+## Docs Site Template
+
+- [X][fluentqa-mdocs-template](https://github.com/qdriven/fluentqa-md-docs-template.git)
+- [X][nextra-docs-templates](https://github.com/qdriven/docs-templates)
