@@ -1,12 +1,12 @@
 # Fluent QA Project Templates
 
 Software QA may use different tools to complete dialy tasks, like test-ops,automation testing .......
-
 Here are some project templates to speed up project settings.
 - [Fluent QA Project Templates](#fluent-qa-project-templates)
   - [Devops/TestOps Project Template](#devopstestops-project-template)
   - [Dev/Automation Project Templates-Different Language](#devautomation-project-templates-different-language)
   - [Docs Site Template](#docs-site-template)
+
 
 ## Devops/TestOps Project Template
 
