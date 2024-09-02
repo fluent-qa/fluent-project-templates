@@ -11,3 +11,6 @@
 [submodule "fluentqa-gotpl"]
 	path = fluentqa-gotpl
 	url = https://github.com/fluent-qa/fluentqa-gotpl.git
+[submodule "fe-next-starter"]
+	path = fe-next-starter
+	url = https://github.com/fluent-qa/fe-next-starter.git
