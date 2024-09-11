@@ -18,6 +18,8 @@ Here are some project templates to speed up project settings.
 - [X] [Python-template project](ttps://github.com/fluent-qa/fluentqa-pytpl.git)Python Project
 - [X] [JAVA-template project](https://github.com/fluent-qa/fluent-java-tpl.git)JAVA Maven/Gradle Project
 - [X] [golang-template project](https://github.com/fluent-qa/fluentqa-gotpl.git) golang template project
+
+## UI Project starters
 - [X] [typescript-lib](https://github.com/fluent-qa/ts-lib-starter)Typescript lib template project
 - [X] [typescript-fe-nextjs-ui-starter](https://github.com/fluent-qa/fe-next-starter.git)nextjs,shacdn-ui base template project
 - [X] [typescript-mono-repo](https://github.com/qdriven/mono-ts-starter.git)typescript mono template project
